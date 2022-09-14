@@ -1,7 +1,7 @@
-void main()
+void main()# dev1
 {
-	public static void();
+	public static void();# dev1
 }
 
-        systen.out.println("enter numbers");
+        systen.out.println("enter numbers");# dev1
 	}
